@@ -1,0 +1,5 @@
+git2mastodon
+*.tmpl
+*.cfg
+.DS_Store
+._*
