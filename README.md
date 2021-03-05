@@ -2,7 +2,7 @@
 Post new Git commits to Mastodon-compatible Fediverse instances
 
 ## Install and run
-rss2discord *requires* Go 1.16+.
+git2mastodon *requires* Go 1.16+.
 
 ```
 go get get.cutie.cafe/git2mastodon
